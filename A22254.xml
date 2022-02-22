@@ -1,0 +1,151 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation for suppressing insolent abuses committed by base people against persons of qualitie, aswell strangers as others, in the streetes of the citie and suburbes of London, with the parts adiacent</title>
+            <title>Proclamations. 1621-04-08</title>
+            <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1621</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A22254</idno>
+            <idno type="STC">STC 8666</idno>
+            <idno type="STC">ESTC S100940</idno>
+            <idno type="EEBO-CITATION">99836767</idno>
+            <idno type="PROQUEST">99836767</idno>
+            <idno type="VID">1053</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A22254)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 1053)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1686:66)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation for suppressing insolent abuses committed by base people against persons of qualitie, aswell strangers as others, in the streetes of the citie and suburbes of London, with the parts adiacent</title>
+                  <title>Proclamations. 1621-04-08</title>
+                  <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+                  <author>James I, King of England, 1566-1625.</author>
+               </titleStmt>
+               <extent>[3] sheets   </extent>
+               <publicationStmt>
+                  <publisher>By Bonham Norton, and Iohn Bill, printers to the Kings most Excellent Maiestie,</publisher>
+                  <pubPlace>[Imprinted at London :</pubPlace>
+                  <date>M.DC.XXI. [1621]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Dated at end: VVestminster the eighth day of April, in the nineteenth yeere of our reigne ..</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Crime prevention --  England --  London --  Law and legislation.</term>
+               <term>Offenses against the person --  England --  London.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:1053:1"/>
+            <!-- PDF PAGE 49 -->
+            <head>
+               <figure>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <q>DIEV ET MON DROIT</q>
+                  <figDesc>royal blazon of the House of Stuart</figDesc>
+               </figure>
+            </head>
+            <head>¶ By the King. ¶ A Proclamation for ſuppreſſing inſolent abuſes committed by baſe people againſt perſons of qualitie, aſwell Strangers as others, in the Streetes of the Citie and Suburbes of London, with the parts adiacent.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">A</seg>S We haue euer eſteemed it a happineſſe to meete with any</hi> occaſion, that might iuſtly mooue Vs to take notice of the carefull and diſcreete Gouernment of ſuch as were truſted in high places of Authoritie and Magiſtracie vnder Vs, In which caſes (as the world can well beare Vs witneſſe) Wee haue euer been ready to expreſſe the gladneſſe of Our heart, by Our gracious thankfulnes vnto them in one kinde or other: So on the other ſide, doe Wee hold it as neceſſary a duety belonging vnto Vs, to whom God hath committed the chiefe and ſoueraigne care of all, not onely ſharpely to reprooue where We find ſupine and vnexcuſable negli<g ref="char:EOLhyphen"/>gence, but when through improuidence, and weakneſſe of Gouernment, the miſchiefe growes ſtrong and pernicious, to take the Reformation into our owne ſupreame power, vnleſſe o<g ref="char:EOLhyphen"/>therwiſe Wee find a ſpeedy amendment. Our Citie of London, the Prime and chiefe Citie of all others within Our Realmes and Dominions, the place that Wee, and Our Predeceſ<g ref="char:EOLhyphen"/>ſors in this Kingdome, haue alwayes thought worthieſt to be honoured with the Reſidence of our Perſons, and of Our ſupreame Courts of Iuſtice, and which Our Selfe in particular haue euer ſince Our comming vnto the Crowne, fauoured and theriſhed by all the meanes Wee might, to teſtifie Our Princely and extraordinary affection towards them, whereof Wee
+<pb facs="tcp:1053:2"/>
+               <!-- PDF PAGE 50 -->ſhall neuer repent Vs, hauing found in them a like retribution of Loue and duety towards Vs; Yet muſt wee needes ſay, to Our griefe, that in ſo famous a City as that is, and where<g ref="char:EOLhyphen"/>in of all others, if any where, ciuility and humanity is to be expected, there is as iuſt cauſe at this time to charge their chiefe Magiſtrates for negligent ſuffering, as to condemne the inferi<g ref="char:EOLhyphen"/>our and baſer ſort of people for acting many Inſolencies of rude &amp; ſauage barbariſme, which dayly are committed in the Streets, not only towards Ambaſſadours and publike Miniſters of foreigne Princes and States, whoſe perſons ought to bee ſacred and priuiledged, by the Lawes of God and Nations, from all violence or wrong, but euen towards other Strangers alſo, to whom all courteous reſpect and hoſpitality is due, and generally to the whole Nobility and Gentry of our own Realmes, both men and women, hauing occaſion at any time to abide, or repaire vnto this City, inſomuch as the Complaints hereof doe continually come vnto Our eares, and make Vs aſhamed, that notwithſtanding the often and ſtraight Commande<g ref="char:EOLhyphen"/>ments that We haue layd heretofore vpon the Lord Maior &amp; Aldermen, for ſuppreſſing this wicked and deuiliſh humor of thoſe baſe people by ſeuerity of Iuſtice &amp; puniſhment, the ſame doth neuertheleſſe continue more and more in a higher degree, to the great ſcandall of Our Go<g ref="char:EOLhyphen"/>uernment, both at home and abroad, and to the diſhonour of our Nation. Being therefore reſolued to endure theſe Inſolencies no longer, Wee haue now thought fit to declare vnto the world the true ſence and feeling Wee haue of Our owne Honour, which cannot but ſuffer much, if by Our longer ſufferance the ſubordinate Magiſtrates &amp; Gouernours, to whom the ordinary Reformation of theſe Abuſes doth appertaine, neglect their dueties; And doe for that cauſe hereby ſtraightly charge and command the Maior and Aldermen of Our ſayd Ci<g ref="char:EOLhyphen"/>tie of London, as they will anſwere the ſame hereafter vnto Vs, vpon paine of Our higheſt diſpleaſure, and ſuch further perill as may enſue thereupon, that they doe preſently enter into ſome ſerious conſultation and conference amongſt themſelues, how theſe Affronts to Stran<g ref="char:EOLhyphen"/>gers, and others Our owne Subiects may be carefully preuented hereafter, that no ſuch lewd perſon ſhall dare, either by word or deede, to offer any iniury or violence, directly or indirect<g ref="char:EOLhyphen"/>ly, or ſo much as, by his geſture or countenance, to ſcoffe at, or abuſe any Stranger, eſpecially Ambaſſadours and publike Miniſters, their Seruants and Followers, or other Noble-men and Gentlemen, Ladies or Gentlewomen, Our owne Subiects or others, but to behaue themſelues towards them with all reſpect and courteſie, meeting them in the Streetes or elſewhere ſoeuer.</p>
+            <p>And although Wee hold it not ſo proper for vs to preſcribe a particular way vnto the ſayde Maior and Aldermen, how this may be effected with that good ſucceſſe, which Wee may well expect, if they be vigilant &amp; diligent, as becomes them, who ſhould beſt vnderſtand the meanes how to deale with thoſe inferiour members of their owne Bodie; yet hereof let them be aſſu<g ref="char:EOLhyphen"/>red, that if it fall out any ſuch abuſes be committed againe, &amp; come to Our knowledge, We will not only exact a ſtrict account of the ſame from the whole Citie, but euen from that particular Alderman in whoſe Ward it ſhal happen to be done, &amp; he not puniſh it according to the fault; who if hee performe his duty in time, by admoniſhing all houſholders and other within his Ward, to be watchful ouer ſuch offences when they happen, needes not to pleade ignorance of the fact, nor in this caſe wil We take it for a ſufficient excuſe: As, on the other ſide, We doe hereby alſo expreſly &amp; ſtraightly charge and commaund all Houſholders, Citizens, and Inhabitants within Our ſaid City, not onely themſelues to abſtaine from all ſuch violences and iniuries, as before are mentioned, but in caſe any rude and audacious perſon ſhal, notwithſtanding ſo ma<g ref="char:EOLhyphen"/>ny warnings giuen heretofore, and examples of Iuſtice lately executed vpon ſome, preſume neuertheleſſe to commit the like offence againe; That then they doe with their vttermoſt power and endeauour apprehend ſuch Offendor or Offendors, if the Conſtable or immediate Officer be not at that inſtant preſent, or at hand, and if hee bee, then to aſſiſt him the beſt they may, for putting the ſayde Offendors into the hands of Iuſtice: And this vpon perill of Our high indignation, and of ſuch ſeuere puniſhment, as may be inflicted vpon any perſon that ſhal looke on, and bee knowne through his wilfull negligence to ſuffer the Malefactor to eſcape, now that We haue declared Our Royall pleaſure ſo expreſly on that behalfe. And as We haue hitherto applied this charge particularly vnto the City of London and the Liberties thereof,
+<pb facs="tcp:1053:3"/>
+               <!-- PDF PAGE 51 -->becauſe there theſe inſolencies haue beene for the moſt part committed, for any thing Wee haue heard: Yet leaſt the ſame boldneſſe and impudencie may ſpread to the other parts and ſkirts bordering vpon the City, or the Countries adioyning thereunto, where the worſer ſort of peo<g ref="char:EOLhyphen"/>ple may be alike corrupted by example of thoſe others within the City: Wee doe heereby im<g ref="char:EOLhyphen"/>poſe the like ſtrict charge and commandment vpon all Iuſtices of Peace, Sheriffes, Conſta<g ref="char:EOLhyphen"/>bles, and other Our Officers; As alſo vpon all Lords of Leetes and Liberties, and other Inhabitants whatſoeuer, within the neighbouring parts of the Counties of Middleſex and Surrey, neere vnto the City of London, that they take the like care preſently within their ſe<g ref="char:EOLhyphen"/>uerall Iuriſdictions and places of authority, or habitation reſpectiuely, to containe the people within the bounds of their duty towards Vs, and of reſpect and ciuility vnto all ſuch perſons and Strangers eſpecially, as are before mentioned, and haue heeretofore had iuſt cauſe to bee grieued at ſuch barbarous vſage, as they will anſwere for their neglect and want of due care on that behalfe, if any complaint come vnto Vs of that nature heereafter.</p>
+            <closer>
+               <dateline>Giuen at Our Palace of Weſtminſter <date>the eighth day of April, in the nine<g ref="char:EOLhyphen"/>teenth yeere of Our Reigne of Great Britaine, France and Ireland.</date>
+               </dateline>
+               <lb/>
+God ſaue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <g ref="char:leaf">❧</g> Imprinted at London by Bonham Norton, and Iohn Bill, Printers to the Kings moſt Excellent Maieſtie. ANNO DOM. M.DC.XXI<g ref="char:punc">▪</g>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
